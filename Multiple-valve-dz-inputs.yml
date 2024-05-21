@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/multiple-valve-dz-tricuspid---primary.py
+inputModule3:
+  class: File
+  path: python/multiple-valve-dz-insufficiency---primary.py
+inputModule4:
+  class: File
+  path: python/multiple-valve-dz-stenosis---primary.py
+inputModule5:
+  class: File
+  path: python/multiple-valve-dz-regurgitation---primary.py
+inputModule6:
+  class: File
+  path: python/multiple-valve-dz---primary.py
+inputModule7:
+  class: File
+  path: python/mitral-multiple-valve-dz---primary.py
+inputModule8:
+  class: File
+  path: python/multiple-valve-dz-incompetence---primary.py
+inputModule9:
+  class: File
+  path: python/valve---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
